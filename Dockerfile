@@ -1,4 +1,4 @@
-FROM postgres:10.4
+FROM postgres:11
 
 MAINTAINER Robert Brem <brem_robert@hotmail.com>
 
